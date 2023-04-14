@@ -1,6 +1,6 @@
-package design_patterns.strategy_desing_pattern.controller.model;
+package design_patterns.strategy_design_pattern.model;
 
-import design_patterns.strategy_desing_pattern.controller.BaseAmountCalculator;
+import design_patterns.strategy_design_pattern.controller.BaseAmountCalculator;
 
 public class UgadiOfferPrice extends BaseAmountCalculator {
 

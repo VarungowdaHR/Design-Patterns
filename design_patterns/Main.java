@@ -1,8 +1,8 @@
 package design_patterns;
 
-import design_patterns.strategy_desing_pattern.controller.ShowPrice;
-import design_patterns.strategy_desing_pattern.controller.model.DassaraSpecialPrice;
-import design_patterns.strategy_desing_pattern.controller.model.UgadiOfferPrice;
+import design_patterns.strategy_design_pattern.controller.ShowPrice;
+import design_patterns.strategy_design_pattern.model.DassaraSpecialPrice;
+import design_patterns.strategy_design_pattern.model.UgadiOfferPrice;
 
 public class Main {
     public static void main(String[] args){
